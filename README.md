@@ -8,8 +8,6 @@ From Foundations Bootcamp Session:
 
 Dr Ventura's Paper [Full version](https://github.com/bhollan/dspp_cohort_six/files/12386990/KKSBVL_CSS_Full.pdf) [Short version](https://github.com/bhollan/dspp_cohort_six/files/12386991/KKSBVL_CSS_short.pdf)
 
-[Bootcamp survey](https://forms.gle/aa6uSgGhXV8RGpW46)
-
 [Slides](https://github.com/bhollan/dspp_cohort_six/blob/main/DSPP-IRL.pptm) (the cool Slido stuff won't work tho)
 
 [Data Science Command Line](https://datascienceatthecommandline.com/)
