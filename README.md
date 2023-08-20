@@ -16,3 +16,4 @@ Dr Ventura's Paper [Full version](https://github.com/bhollan/dspp_cohort_six/fil
 
 [Data Science Portfolio](https://datascienceportfol.io)
 
+[Explain Shell](https://explainshell.com/)
